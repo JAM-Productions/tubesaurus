@@ -2,9 +2,9 @@ import React from "react";
 
 function Header({ title }: { title: string }) {
   return (
-    <div className="mb-7 flex items-center space-x-2">
-      {/* TODO: ICON */}
-      <h1 className="text-2xl font-bold">{title}</h1>
+    <div className="mb-7 flex items-center gap-1">
+      <img src="tubesaurus-logo.webp" alt="logo" className="h-20" />
+      <h1 className="text-4xl font-bold mt-5">{title}</h1>
     </div>
   );
 }

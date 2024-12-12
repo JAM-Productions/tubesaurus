@@ -2,6 +2,8 @@
 
 Tubesaurus is a website to download YouTube videos. You can download videos in different formats and qualities and also download only the audio.
 
+![Tubesaurus](./docs/screenshot.png)
+
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/)
