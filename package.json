@@ -11,6 +11,7 @@
     "check-format": "prettier --check 'app/**/*.{ts,tsx}' 'components/**/*.{ts,tsx}'"
   },
   "dependencies": {
+    "@distube/ytdl-core": "^4.15.1",
     "next": "15.0.3",
     "prettier": "^3.4.1",
     "prettier-plugin-tailwindcss": "^0.6.9",

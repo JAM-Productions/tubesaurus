@@ -5,6 +5,7 @@ Tubesaurus is a website to download YouTube videos. You can download videos in d
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/)
+- [ffmeg](https://ffmpeg.org/). You can install it using [Homebrew](https://brew.sh/) (`brew install ffmpeg`) for macOS.
 
 ## Run locally
 
